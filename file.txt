@@ -1,1 +1,2 @@
 welcome to my local repo
+This is second line in file
