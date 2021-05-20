@@ -1,2 +1,3 @@
 welcome to my local repo
 This is second line in file
+This line is added by the branch2
